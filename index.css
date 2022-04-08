@@ -1,0 +1,306 @@
+nav{
+    background: linear-gradient(135deg,#002462 0,#0053b7 100%);
+    
+}
+
+.footer_image{
+    width: 7%;
+    border-radius: 360px;
+    position: fixed;
+    top: 66%;
+    left: 90%;
+}
+footer{
+    margin-block-end: 2%;
+}
+.card-title{
+    color: #f2f5f8;
+    text-align: center;
+}
+.Test{   
+    width: 50%;
+    font-size: 20px;
+}
+.how{
+    width: 85%;
+}
+.card-footer.py-4{
+    background-color: rgb(232, 77, 53);
+    width: 100%;
+}
+.btn_1{
+    text-decoration: none;
+    color: #f2f5f8;
+    font-size: 18px;    
+}
+.jumbotron {
+    
+    background-image: url(./images/converted\ wavy\ image.png);
+    background-size: contain;
+   
+}
+.card.h-100{
+    background-color: transparent;
+}
+
+.card.h-100{
+    height: 200px;
+    color: aliceblue;
+}
+.time{
+    display: flex;
+    justify-content: space-around;
+}
+
+.p-3{
+    border: whitesmoke 4px solid;
+    border-radius: 57%;
+    
+}
+.card{
+    background-color: rgb(239, 239, 239);
+    border: none;
+}
+nav{
+    border-bottom:  rgb(7, 63, 127) dashed ;
+   
+}
+footer{
+    background-color: #002462;
+    width: 100%;
+    /* background: linear-gradient(135deg,#002462 0,#0053b7 100%); */
+    color: whitesmoke;
+}
+.nav-link{
+    color: whitesmoke;
+}
+.col-8{
+    font-size: 100%;
+}
+.flexx{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    text-align: center;
+    font-size: 12px;
+}
+
+.img_1{
+    width: 40%;
+}
+
+.container{
+    justify-content: space-between;
+    margin-block-end: 30px;
+}
+
+.card-img-top{
+    box-shadow: 3px 3px 15px 5px rgb(41, 39, 39) ;
+}
+
+.please{
+    border: rgb(133, 213, 243) 4px solid;
+    background-color: rgb(201, 228, 239);
+    width: 80%;
+    height: 622px;
+
+}
+.display-4{
+    font-weight: 900 !important;
+    color: rgb(0, 28, 78);
+    text-align: center;
+}
+.display-3{
+    font-size: 40px;
+    font-weight: 500 !important;
+    color:  rgb(232, 77, 53);
+    text-align: center;
+}
+.should{
+    text-align: center;
+}
+.display-2{
+    font-weight: 900 !important;
+    color: rgb(0, 28, 78);
+    text-align: center;
+}
+#inp_check{
+    font-size: 90%;
+}
+.form-check-label{
+    font-size: 23px;
+}
+.p-fluid{
+    font-size: 23px;
+}
+.strike{
+    font-size: 62px;
+    color: red;
+}
+.card-header{
+    color: rgb(4, 36, 92) ;
+    font-weight: 1000;
+    font-size: 35px;
+}
+.ratio.ratio-16x9{
+    background-image: url(./images/MR\ YUSUF\ VIDEO2.png);
+}
+._1{
+    color:white;
+}
+.card-title{
+    color: rgb(4, 36, 92) ;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 25px;
+}
+.accept{
+    color: rgb(0, 28, 78);
+    font-size: 63px;
+}
+.want{
+    font-size:13px;
+}
+.thirty{
+    font-size: 29px;
+}
+.Total{
+    text-align: center;
+    border: rgb(0, 28, 78) 4px solid ;
+    padding: 4px;
+}
+.trainer{
+    font-size: 19px;
+    text-align: center;
+}
+.first{
+    border: rgb(232, 77, 53) 4px solid; 
+    padding-top: 4px;
+    padding-left: 4px;
+}
+.letme{
+    color: rgb(3, 33, 86);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.btn.btn-primary,.elButton{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    background-color: rgb(232, 77, 53);
+    font-size: 64px;
+    border: none;
+    box-shadow: none;
+    text-decoration: none;
+    height: 200px;
+
+}
+.elButton:hover{
+    color: rgb(255, 255, 255);
+}
+.yes{
+    width: 72%;
+}
+.div1{
+    display: flex;
+}
+.innerdiv{
+    width: 30%;
+}
+.innerdiv2{
+    width: 30%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+@media (max-width: 768px) {
+
+    .col-sm-4{
+        width: 99%;
+    }
+    
+    .img{
+        width: 99%;
+        text-align: center;
+    }
+    .btn.btn-primary,.elButton{
+        color: rgb(255, 255, 255);
+        font-weight: 600;
+        background-color: rgb(232, 77, 53);
+        font-size: 44px;
+        border: none;
+        box-shadow: none;
+        text-decoration: none;
+        height: 400px;
+    
+    }
+    .span_2{
+        font-size: 8px;
+    }
+    .yes{
+        width: 100%;
+    }
+    
+    .free{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .col-8{
+        width: 100%;
+    }
+    .please{
+        height: 1010px; 
+    }
+    .flex{
+        display: block;
+    
+    }
+
+}
+
+@media (max-width: 425px) {
+    .footer_image{
+        position: relative;
+        top: 2px;
+        width: 12%;
+        height: 35px;
+    } 
+    .row{
+        display: block;
+    }
+    .please{
+        height: 1601px;  
+    }
+    .flexx{
+        display: flex;
+        justify-content: space-around;
+        width: 55%;
+    }
+    
+    .d-block.d-sm-none{
+        height: 190px;
+        font-size: 3px;    
+    }
+    article{
+        font-size: 10px;
+    }
+    .footer_span{
+        font-size: large;
+    }
+    footer{
+        margin-block-end: 10%;
+        height: 500px;
+    }
+    .last{
+        height: 10rem;
+        position: fixed;
+        top: 470px;  
+        background-color: #fff;
+      
+    }   
+}
